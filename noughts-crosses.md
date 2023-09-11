@@ -2,19 +2,19 @@
 
 <table>
     <tr>
-        <td>X</td>
         <td></td>
-        <td>O</td>
-    </tr>
-    <tr>
-        <td>O</td>
-        <td>X</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>X</td>
-        <td>O</td>
-        <td>X</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 

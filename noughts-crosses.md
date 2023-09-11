@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td>X</td>
-        <td></td>
+        <td>O</td>
         <td>X</td>
     </tr>
 </table>

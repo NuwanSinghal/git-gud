@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td>O</td>
-        <td></td>
+        <td>X</td>
         <td>O</td>
     </tr>
     <tr>
